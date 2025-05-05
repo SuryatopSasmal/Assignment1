@@ -68,8 +68,10 @@ First Change:</br>
    <pre>
      git push -u origin main // here main segnifies branch main
    </pre>
-   ![image](https://github.com/user-attachments/assets/cbe478c6-608a-4168-a4a2-55e937eb4e8c)
-   ![image](https://github.com/user-attachments/assets/f6497e0d-d5b2-432c-85ae-184b95006b4e)
+  ![image](https://github.com/user-attachments/assets/25100353-7ff8-4578-82f8-2e0e25ee6d32)
+
+  ![image](https://github.com/user-attachments/assets/6691118e-ff91-4eac-a94e-50f66bd21292)
+
 4.  Create a README.md file directly on GitHub using the web interface
 <pre>
   CREATED
@@ -80,17 +82,20 @@ First Change:</br>
    cd Assignment2
    git clone https://github.com/SuryatopSasmal/Assignment1.git
 </pre>
-![image](https://github.com/user-attachments/assets/ecc4e83b-85b4-42df-b457-12e70f5c7f02)
+![image](https://github.com/user-attachments/assets/f1c430c1-f269-42a0-b177-44bc208d62ba)
+
 6.	Create a new branch locally named "feature/update-readme"
 <pre>
   git branch feature/update-readme
   git switch feature/update-readme
 </pre>
-![image](https://github.com/user-attachments/assets/1d942394-a1c6-43e9-9ac3-399278b4b656)
-![image](https://github.com/user-attachments/assets/59835217-5ded-486c-9477-4e981fad04f6)
+![image](https://github.com/user-attachments/assets/f616798e-f2db-4998-a922-cd69c3ccf981)
+![image](https://github.com/user-attachments/assets/72ef7a91-9106-41a2-8805-33ba57abfeb7)
+
 7.  Make changes to README.md and push the branch to GitHub
 
 ---Change the containt through VIM editor, through local device---
+</br>
 ---Change the containt through VIM editor, through feature/update-readme branch---
 ![image](https://github.com/user-attachments/assets/20303fbc-888a-43db-bd83-38b7e4a1a377)
 ![image](https://github.com/user-attachments/assets/3bd896d4-ef4b-4edf-9df3-4c279ea4f00f)
