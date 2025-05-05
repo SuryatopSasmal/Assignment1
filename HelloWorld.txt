@@ -4,3 +4,9 @@ I'm currently working in minfy Technologies as an Intern.
 My Joining Date was 28/04/2025.
 As a part of minfy family, im greatful for all the facilities provided to me.
 
+Training Day1 : git and GitHub
+Training Day2 : SDLC
+Training Day3 : HLD vs LLD
+Training Day4 : continue LLD
+
+
