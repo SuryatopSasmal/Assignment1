@@ -92,6 +92,16 @@ First Change:</br>
 
 ---Change the containt through VIM editor, through local device---
 ---Change the containt through VIM editor, through feature/update-readme branch---
+![image](https://github.com/user-attachments/assets/20303fbc-888a-43db-bd83-38b7e4a1a377)
+![image](https://github.com/user-attachments/assets/3bd896d4-ef4b-4edf-9df3-4c279ea4f00f)
+
+8.	Create a pull request from "feature/update-readme" to main branch
+   ![image](https://github.com/user-attachments/assets/8f7dd273-0154-492e-b78d-88f67b8dfb89)
+
+10.	Review and merge the pull request
+![Screenshot 2025-05-06 001510](https://github.com/user-attachments/assets/e7c55342-8b05-4c60-bab0-e5e10e677650)
+![Screenshot 2025-05-06 001551](https://github.com/user-attachments/assets/4b7fc54d-c745-4c97-a561-74526845d8c9)
+
 
 
 
