@@ -42,7 +42,7 @@ First Change:</br>
   git log
 </pre>
 <img alt="image" src="https://github.com/user-attachments/assets/5474580d-9b57-4618-bb11-72040e621c7e">
-6.	Use git diff to examine differences between commits
+7.	Use git diff to examine differences between commits
 <pre>
   git diff <hash_id1></hash_id2>(or)
   git diff HEAD~1 // difference recent commit with just previous commit
