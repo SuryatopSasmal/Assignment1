@@ -66,7 +66,7 @@ First Change:</br>
 
 3.  Push local repository from Assignment 1 to GitHub
    <pre>
-     git push -u origin main // here main segnifies branch main
+     git push -u origin main // here main signifies branch main
    </pre>
   ![image](https://github.com/user-attachments/assets/25100353-7ff8-4578-82f8-2e0e25ee6d32)
 
